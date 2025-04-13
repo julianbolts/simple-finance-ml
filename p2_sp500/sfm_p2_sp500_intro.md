@@ -33,3 +33,12 @@ To follow this project, please install the following locally:
 ## Data
 
 We'll download all of the data during the project, using the `yfinance` package.
+
+## Project Source Material
+
+Note this was part of a project based lesson from Dataquest
+
+project source: https://github.com/dataquestio/project-walkthroughs
+
+project video: https://www.youtube.com/watch?v=1O_BenficgE
+
